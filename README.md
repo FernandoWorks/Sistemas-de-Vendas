@@ -23,6 +23,6 @@ O banco é composto pelas seguintes tabelas:
 * Exemplo de venda: Ana Souza comprou um conjunto de produtos totalizando R$ 3.840,00, pago via cartão de crédito.
 
 
-Finalidade
+ Finalidade
 
 Esse banco de dados pode ser utilizado como base para sistemas de gestão de vendas, controle de estoque e relatórios financeiros em pequenas ou médias empresas.
